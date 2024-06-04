@@ -10,4 +10,7 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
+seaborn
+scikit-learn
+xgboost
 -e .
