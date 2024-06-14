@@ -1,0 +1,18 @@
+COLUMNS:
+  danceability: float64
+  duration_ms: float64
+  energy: float64
+  instrumentalness: float64
+  key: int64
+  liveness: float64
+  loudness: float64
+  mode: int64
+  speechiness: float64
+  tempo: float64
+  time_signature: int64
+  valence: float64
+  label_encoded: int32
+  popularity: int64
+
+TARGET_COLUMN:
+  name: popularity
