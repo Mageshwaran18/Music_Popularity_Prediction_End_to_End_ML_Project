@@ -20,7 +20,7 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("mlProjectLogger")
+logger = logging.getLogger("Music_Popularity_Prediction_End_to_End_ML_Project")
 """
 Logging helps developers understand what went wrong when an error occurs. By examining the log messages
  they can trace the sequence of events that led to the error.
